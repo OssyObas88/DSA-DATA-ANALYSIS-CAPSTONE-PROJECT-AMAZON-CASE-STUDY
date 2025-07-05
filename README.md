@@ -3,10 +3,6 @@
 This is my project work after the training organised by DSA to test our journey thus far in order to be able to score us for the next level in our journey in Data Analysis. This project is part of the DSA Data Analysis Capstone and focuses on performing Exploratory Data Analysis (EDA) on Amazon product review data. The objective is to extract insights that can inform product development, pricing strategy, and customer engagement using Microsoft Excel.
 This repository contains the complete analysis, insights, and dashboard for **Case Study 1: Amazon Product Review Analysis** from the DSA Data Analysis Capstone Project file.
 
-## Project
-
-As a Junior Data Analyst at RetailTech Insights, I was tasked with analyzing Amazon product review data to uncover insights that can help with product improvement and customer engagement strategies.
-
 ## Dataset Description
 
 The dataset includes:
